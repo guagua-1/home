@@ -24,15 +24,15 @@
     "url": "mailto:2728538972@qq.com"
   },
   {
-    "name": "博客",
+    "name": "Facebook",
     "icon": "/images/icon/twitter.png",
-    "tip": "时光记 ~",
-    "url": "https://blog.1a2.top"
+    "tip": "懂得都懂 ~",
+    "url": "https://www.facebook.com/tom.max.7528/"
   },
   {
-    "name": "导航",
+    "name": "Gieet",
     "icon": "/images/icon/telegram.png",
-    "tip": "一度导航，一个有深度的导航 ~",
-    "url": "https://www.1du.fun"
+    "tip": "gitte ~",
+    "url": "https://gitee.com/craved"
   }
 ]
