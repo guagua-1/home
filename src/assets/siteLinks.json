@@ -23,5 +23,10 @@
     "icon": "Book",
     "name": "导航网",
     "link": "https://www.1du.fun/"
+  },
+  {
+    "icon": "Fire",
+    "name": "今日热榜",
+    "link": "https://hot.imsyy.top/"
   }
 ]
